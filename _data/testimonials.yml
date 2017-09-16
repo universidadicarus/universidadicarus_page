@@ -1,16 +1,17 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Arthur C. Clarke
+  title: Escritor
+  testimonial: "Lo que hoy ha empezado como novela de ciencia ficción, mañana será terminado como reportaje."
   image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Louis Pasteur.
+  title: Descubridor de la Penicilina
+  testimonial: "La ciencia es el alma de la prosperidad de las naciones y la fuente de vida de todo progreso."
   image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Alfred Einstein
+  title: Creador de la teoría de la relatividad.
+  testimonial: "Sería posible describir todo científicamente,  pero no tendría ningún sentido;  carecería de significado el que usted describiera a la sinfonía de Beethoven como una variación
+de la presión de la onda auditiva"
   image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
+- name: Friedrich Nietzsche
+  title: Filosofo
+  testimonial: "El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es demasiado alto por el privilegio de ser uno mismo."
   image: img/item-img1.jpg
