@@ -65,7 +65,7 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
+  background: #000; /*-- #fff --*/
   padding: 20px 0;
 }
 header .navbar {
@@ -774,7 +774,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	footer Start
 --*/
 footer {
-  background: #F5F5F5;
+  background: #000; /*-- #F5F5F5 --*/
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
