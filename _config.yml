@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: "Proyecto ICARUS"
 subtitle: "Únete a la universidad del futuro"
-url: "http://proyectoicarus.github.io" # the base hostname & protocol for your site
+url: "https://universidadicarus.github.io/universidadicarus_page/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
